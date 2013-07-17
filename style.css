@@ -1,0 +1,48 @@
+#wrap {
+	position: relative;
+	text-align: center;
+}
+
+.button {
+	display: inline-block;
+	border-radius: 50%;
+	color: #FFF;
+	text-align: center;
+	padding: 20px;
+	font-family: 'Monda', sans-serif;
+	font-size: 3em;
+	width: 250px;
+	height: 250px;
+	position:relative;
+	margin: auto;
+}
+
+.button span {
+    margin: auto;
+    position: relative;
+    top: 37%;
+
+}
+
+#generator {
+	background-color: #82E4FF;
+	color: #FFF;
+
+}
+
+.hidden{
+	display: none;
+}
+
+.unselectable {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+span {
+	cursor: default;
+}
