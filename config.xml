@@ -35,6 +35,8 @@
         A list of available plugins are available at https://build.phonegap.com/docs/plugins
     -->
 
+    <icon src="yesnogen_icon.png" />
+
     <!--
         Define access to external domains.
 
