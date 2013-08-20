@@ -4,9 +4,9 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.jette.yesnogen"
-        version   = "1.0.0">
+        version   = "1.1.0">
 
-    <name>Cute yes/no generator</name>
+    <name>YesNoGen</name>
 
     <description>
         Cute yes/no generator for helping you in your life.
